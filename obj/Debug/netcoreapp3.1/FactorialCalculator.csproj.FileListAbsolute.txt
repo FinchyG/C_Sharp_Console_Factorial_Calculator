@@ -1,0 +1,13 @@
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Apps\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.genruntimeconfig.cache
