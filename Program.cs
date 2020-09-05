@@ -22,7 +22,7 @@ namespace FactorialCalculator
                 Int16 userNum = Convert.ToInt16(userInput);
                 Int16 factorial = 1;
 
-                while (userNum > 0)
+                while (userNum > 1)
                 {
                     factorial *= userNum;
                     userNum -= 1;
